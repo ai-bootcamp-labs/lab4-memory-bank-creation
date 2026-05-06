@@ -2,8 +2,9 @@
 
 ## Tech Stack
 - Frontend: React 18 + Vite
+- Backend: Node.js
 - Language: TypeScript
-- Storage: localStorage (NO BACKEND)
+- Storage: PostgreSQL
 
 ## Specification Structure
 - PRDs are stored in: specs/prds/
